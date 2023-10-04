@@ -12,6 +12,6 @@ class HelloWorld {
     }
 
     public static void emptyFunction(){
-
+        
     }
 }
